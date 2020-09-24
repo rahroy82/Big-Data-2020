@@ -1,0 +1,5 @@
+#This is the command that I entered into my FLUME_HOME/bin directory:
+./flume-ng agent --conf conf -conf-file ~/apache-flume-1.9.0-bin/conf/twitter.conf --name TwitterAgent -Dflume.root.logger=DEBUG,console
+
+#it starts to run and has a lot of processing going on but it stops and at the end it says "....... 11 more". I 
+#added "  export CLASSPATH=$CLASSPATH:/FLUME_HOME/lib/*   " to my flume-env.sh. and of course I had executed  start-dfs.sh and #start-yarn.sh
