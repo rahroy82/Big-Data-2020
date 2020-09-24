@@ -1,0 +1,2059 @@
+{
+  "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=US",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi" },
+      "href": "https://api.spotify.com/v1/albums/5ZQjqg9obFzyGuxGj0mjSi",
+      "id": "5ZQjqg9obFzyGuxGj0mjSi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cfae92bfa188457b4bee0055",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cfae92bfa188457b4bee0055",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cfae92bfa188457b4bee0055",
+          "width": 64
+        }
+      ],
+      "name": "King's Disease",
+      "release_date": "2020-08-21",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5ZQjqg9obFzyGuxGj0mjSi"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/55iyu952waEUnQCcue5nQ2" },
+      "href": "https://api.spotify.com/v1/albums/55iyu952waEUnQCcue5nQ2",
+      "id": "55iyu952waEUnQCcue5nQ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739506db17415aed708ce7df5b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029506db17415aed708ce7df5b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519506db17415aed708ce7df5b",
+          "width": 64
+        }
+      ],
+      "name": "King's Disease",
+      "release_date": "2020-08-20",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:55iyu952waEUnQCcue5nQ2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/4tRNl7PwUzXrxTP3YZjWgS" },
+      "href": "https://api.spotify.com/v1/albums/4tRNl7PwUzXrxTP3YZjWgS",
+      "id": "4tRNl7PwUzXrxTP3YZjWgS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e1d2f4ab4e7cda21e1772fa6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e1d2f4ab4e7cda21e1772fa6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e1d2f4ab4e7cda21e1772fa6",
+          "width": 64
+        }
+      ],
+      "name": "The Lost Tapes 2",
+      "release_date": "2019-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:4tRNl7PwUzXrxTP3YZjWgS"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/1iG6oLmTNwDoRKZ0vu87jB" },
+      "href": "https://api.spotify.com/v1/albums/1iG6oLmTNwDoRKZ0vu87jB",
+      "id": "1iG6oLmTNwDoRKZ0vu87jB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273975d45f4547523faa034f8a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02975d45f4547523faa034f8a7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851975d45f4547523faa034f8a7",
+          "width": 64
+        }
+      ],
+      "name": "The Lost Tapes 2",
+      "release_date": "2019-07-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:1iG6oLmTNwDoRKZ0vu87jB"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/66EwBbt2kPgugo8Wz0SKAw" },
+      "href": "https://api.spotify.com/v1/albums/66EwBbt2kPgugo8Wz0SKAw",
+      "id": "66EwBbt2kPgugo8Wz0SKAw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734c2ab67f7da8208998f35d51",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024c2ab67f7da8208998f35d51",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514c2ab67f7da8208998f35d51",
+          "width": 64
+        }
+      ],
+      "name": "NASIR",
+      "release_date": "2018-06-15",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:66EwBbt2kPgugo8Wz0SKAw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/1Xd9sCWxvNx02wCTZbKoek" },
+      "href": "https://api.spotify.com/v1/albums/1Xd9sCWxvNx02wCTZbKoek",
+      "id": "1Xd9sCWxvNx02wCTZbKoek",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345581c6d91d51a53b68d5735",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0245581c6d91d51a53b68d5735",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485145581c6d91d51a53b68d5735",
+          "width": 64
+        }
+      ],
+      "name": "Illmatic: Live from the Kennedy Center with the National ",
+      "Symphony Orchestra",
+      "release_date": "2018-04-20",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1Xd9sCWxvNx02wCTZbKoek"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/6WHX1SpLq3D5fDtsK78w8r" },
+      "href": "https://api.spotify.com/v1/albums/6WHX1SpLq3D5fDtsK78w8r",
+      "id": "6WHX1SpLq3D5fDtsK78w8r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731e512ce4c37c327a01df2657",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021e512ce4c37c327a01df2657",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511e512ce4c37c327a01df2657",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good",
+      "release_date": "2012-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6WHX1SpLq3D5fDtsK78w8r"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/6KzbVsVLOeLGmCQWJpOWID" },
+      "href": "https://api.spotify.com/v1/albums/6KzbVsVLOeLGmCQWJpOWID",
+      "id": "6KzbVsVLOeLGmCQWJpOWID",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27363c9d5c3d442832d8607d556",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0263c9d5c3d442832d8607d556",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485163c9d5c3d442832d8607d556",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good",
+      "release_date": "2012-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:6KzbVsVLOeLGmCQWJpOWID"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/39FNg2ShzXn1VFUiqY6IWe" },
+      "href": "https://api.spotify.com/v1/albums/39FNg2ShzXn1VFUiqY6IWe",
+      "id": "39FNg2ShzXn1VFUiqY6IWe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f4a401d8c731ca7984b02907",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f4a401d8c731ca7984b02907",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f4a401d8c731ca7984b02907",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Deluxe)",
+      "release_date": "2012-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:39FNg2ShzXn1VFUiqY6IWe"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/2WbTR3iMcXAGT1eUHIypZv" },
+      "href": "https://api.spotify.com/v1/albums/2WbTR3iMcXAGT1eUHIypZv",
+      "id": "2WbTR3iMcXAGT1eUHIypZv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273893639675dfacce4863832ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02893639675dfacce4863832ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851893639675dfacce4863832ad",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Deluxe)",
+      "release_date": "2012-07-17",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2WbTR3iMcXAGT1eUHIypZv"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0ddTtajzPmxZ7UVW2VEAln" },
+      "href": "https://api.spotify.com/v1/albums/0ddTtajzPmxZ7UVW2VEAln",
+      "id": "0ddTtajzPmxZ7UVW2VEAln",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bfca10ab09c44462f1cc56ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bfca10ab09c44462f1cc56ac",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bfca10ab09c44462f1cc56ac",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Explicit Version)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0ddTtajzPmxZ7UVW2VEAln"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/55Abnzdg1IREQmVWo7cwTc" },
+      "href": "https://api.spotify.com/v1/albums/55Abnzdg1IREQmVWo7cwTc",
+      "id": "55Abnzdg1IREQmVWo7cwTc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273903e66e7179cd6a61398b449",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02903e66e7179cd6a61398b449",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851903e66e7179cd6a61398b449",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Edited Version)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:55Abnzdg1IREQmVWo7cwTc"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI" },
+      "href": "https://api.spotify.com/v1/albums/5fwYiohuGFqJx34Z4s26jI",
+      "id": "5fwYiohuGFqJx34Z4s26jI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d97322947731343a40fc089",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023d97322947731343a40fc089",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513d97322947731343a40fc089",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Deluxe)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:5fwYiohuGFqJx34Z4s26jI"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/1lAmNllLkJzIYFyjEdAVbd" },
+      "href": "https://api.spotify.com/v1/albums/1lAmNllLkJzIYFyjEdAVbd",
+      "id": "1lAmNllLkJzIYFyjEdAVbd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e698074101ac8c723739a74e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e698074101ac8c723739a74e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e698074101ac8c723739a74e",
+          "width": 64
+        }
+      ],
+      "name": "Life Is Good (Deluxe)",
+      "release_date": "2012-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1lAmNllLkJzIYFyjEdAVbd"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi" },
+          "href": "https://api.spotify.com/v1/artists/3QJzdZJYIAcoET1GcfpNGi",
+          "id": "3QJzdZJYIAcoET1GcfpNGi",
+          "name": "Damian Marley",
+          "type": "artist",
+          "uri": "spotify:artist:3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6" },
+      "href": "https://api.spotify.com/v1/albums/6Cj4gSdavyZCIhmeoCcrI6",
+      "id": "6Cj4gSdavyZCIhmeoCcrI6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fcc94ef1f8605f3fbd4a4144",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fcc94ef1f8605f3fbd4a4144",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fcc94ef1f8605f3fbd4a4144",
+          "width": 64
+        }
+      ],
+      "name": "Distant Relatives",
+      "release_date": "2010-05-18",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6Cj4gSdavyZCIhmeoCcrI6"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/41LyFl0XPrCqYeNml7obol" },
+      "href": "https://api.spotify.com/v1/albums/41LyFl0XPrCqYeNml7obol",
+      "id": "41LyFl0XPrCqYeNml7obol",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736bc3bfeba5695b4c07a85b90",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026bc3bfeba5695b4c07a85b90",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516bc3bfeba5695b4c07a85b90",
+          "width": 64
+        }
+      ],
+      "name": "Nas",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:41LyFl0XPrCqYeNml7obol"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/5dMmFu9NCxSjDk3ekggogc" },
+      "href": "https://api.spotify.com/v1/albums/5dMmFu9NCxSjDk3ekggogc",
+      "id": "5dMmFu9NCxSjDk3ekggogc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a2275e5b821eab091c5746db",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a2275e5b821eab091c5746db",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a2275e5b821eab091c5746db",
+          "width": 64
+        }
+      ],
+      "name": "Untitled",
+      "release_date": "2008-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5dMmFu9NCxSjDk3ekggogc"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r" },
+      "href": "https://api.spotify.com/v1/albums/7sHrPadM39466NY7DW3s4r",
+      "id": "7sHrPadM39466NY7DW3s4r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27310d209ae9f4cf0629696254b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0210d209ae9f4cf0629696254b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485110d209ae9f4cf0629696254b",
+          "width": 64
+        }
+      ],
+      "name": "Hip Hop Is Dead (Expanded Edition)",
+      "release_date": "2007-01-23",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7sHrPadM39466NY7DW3s4r"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/3NoAhTU75FB99lyEEJqDns" },
+      "href": "https://api.spotify.com/v1/albums/3NoAhTU75FB99lyEEJqDns",
+      "id": "3NoAhTU75FB99lyEEJqDns",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738408383a0aa9d475cc208d83",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028408383a0aa9d475cc208d83",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518408383a0aa9d475cc208d83",
+          "width": 64
+        }
+      ],
+      "name": "Hip Hop Is Dead (Deluxe Edition)",
+      "release_date": "2006-12-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3NoAhTU75FB99lyEEJqDns"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/5sGyPalpUY2tzwsSdq0EMg" },
+      "href": "https://api.spotify.com/v1/albums/5sGyPalpUY2tzwsSdq0EMg",
+      "id": "5sGyPalpUY2tzwsSdq0EMg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732474e38ca9623eabe72720fb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022474e38ca9623eabe72720fb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512474e38ca9623eabe72720fb",
+          "width": 64
+        }
+      ],
+      "name": "Hip Hop Is Dead (Bonus Tracks)",
+      "release_date": "2006-12-19",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5sGyPalpUY2tzwsSdq0EMg"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13" },
+      "href": "https://api.spotify.com/v1/albums/0jghcWTsQzux5T9sAfZO13",
+      "id": "0jghcWTsQzux5T9sAfZO13",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732cf1755770b6c0c9aa38f41c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022cf1755770b6c0c9aa38f41c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512cf1755770b6c0c9aa38f41c",
+          "width": 64
+        }
+      ],
+      "name": "Street's Disciple",
+      "release_date": "2004-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:0jghcWTsQzux5T9sAfZO13"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/3rKQkS9Kl5EOhcLhIGsOwG" },
+      "href": "https://api.spotify.com/v1/albums/3rKQkS9Kl5EOhcLhIGsOwG",
+      "id": "3rKQkS9Kl5EOhcLhIGsOwG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734658888d6c70d2e39c77eaed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024658888d6c70d2e39c77eaed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514658888d6c70d2e39c77eaed",
+          "width": 64
+        }
+      ],
+      "name": "Street's Disciple",
+      "release_date": "2004-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 25,
+      "type": "album",
+      "uri": "spotify:album:3rKQkS9Kl5EOhcLhIGsOwG"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI" },
+          "href": "https://api.spotify.com/v1/artists/0NbfKEOTQCcwd6o7wSDOHI",
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist",
+          "uri": "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/586sDXSThASjmWwSYnHbqP" },
+      "href": "https://api.spotify.com/v1/albums/586sDXSThASjmWwSYnHbqP",
+      "id": "586sDXSThASjmWwSYnHbqP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273515c39b143f8d84e0241bf56",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02515c39b143f8d84e0241bf56",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851515c39b143f8d84e0241bf56",
+          "width": 64
+        }
+      ],
+      "name": "QB 2 Compton Ringtones",
+      "release_date": "2003",
+      "release_date_precision": "year",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:586sDXSThASjmWwSYnHbqP"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY" },
+      "href": "https://api.spotify.com/v1/albums/3rV1aPkrWyMs6YTvTpSbIY",
+      "id": "3rV1aPkrWyMs6YTvTpSbIY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4370159af71d16473158140",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4370159af71d16473158140",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4370159af71d16473158140",
+          "width": 64
+        }
+      ],
+      "name": "God's Son",
+      "release_date": "2002-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3rV1aPkrWyMs6YTvTpSbIY"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/5L2IK2IcdwvGPmFjKKfT6t" },
+      "href": "https://api.spotify.com/v1/albums/5L2IK2IcdwvGPmFjKKfT6t",
+      "id": "5L2IK2IcdwvGPmFjKKfT6t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d554848a71be8f9464fcd923",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d554848a71be8f9464fcd923",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d554848a71be8f9464fcd923",
+          "width": 64
+        }
+      ],
+      "name": "God's Son",
+      "release_date": "2002-12-13",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5L2IK2IcdwvGPmFjKKfT6t"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/2mU2jRMwrsL1tG97xKoiav" },
+      "href": "https://api.spotify.com/v1/albums/2mU2jRMwrsL1tG97xKoiav",
+      "id": "2mU2jRMwrsL1tG97xKoiav",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273267e806f40829db77ac0827b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02267e806f40829db77ac0827b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851267e806f40829db77ac0827b",
+          "width": 64
+        }
+      ],
+      "name": "The Lost Tapes",
+      "release_date": "2002",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2mU2jRMwrsL1tG97xKoiav"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7KXtMcc9yFqdYJ8kSge5Sv" },
+      "href": "https://api.spotify.com/v1/albums/7KXtMcc9yFqdYJ8kSge5Sv",
+      "id": "7KXtMcc9yFqdYJ8kSge5Sv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27346cc8ffba15dc4a186140b88",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0246cc8ffba15dc4a186140b88",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485146cc8ffba15dc4a186140b88",
+          "width": 64
+        }
+      ],
+      "name": "Stillmatic",
+      "release_date": "2001-12-18",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:7KXtMcc9yFqdYJ8kSge5Sv"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6" },
+      "href": "https://api.spotify.com/v1/albums/0cLzuJG2UDa0axMQkF7JR6",
+      "id": "0cLzuJG2UDa0axMQkF7JR6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273647461bfc9770c825ff6c973",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02647461bfc9770c825ff6c973",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851647461bfc9770c825ff6c973",
+          "width": 64
+        }
+      ],
+      "name": "Stillmatic",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0cLzuJG2UDa0axMQkF7JR6"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5" },
+      "href": "https://api.spotify.com/v1/albums/0yv3K62ndWgrZ0bbAEMzj5",
+      "id": "0yv3K62ndWgrZ0bbAEMzj5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27312a4d3e639e9d2ea02384c20",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0212a4d3e639e9d2ea02384c20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485112a4d3e639e9d2ea02384c20",
+          "width": 64
+        }
+      ],
+      "name": "Nastradamus",
+      "release_date": "1999-11-23",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0yv3K62ndWgrZ0bbAEMzj5"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7HAmG4KdtUa7ZYZWB1Hsju" },
+      "href": "https://api.spotify.com/v1/albums/7HAmG4KdtUa7ZYZWB1Hsju",
+      "id": "7HAmG4KdtUa7ZYZWB1Hsju",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737f63bd78ffb37056621254e4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027f63bd78ffb37056621254e4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517f63bd78ffb37056621254e4",
+          "width": 64
+        }
+      ],
+      "name": "Nastradamus",
+      "release_date": "1999-11-23",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7HAmG4KdtUa7ZYZWB1Hsju"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa" },
+      "href": "https://api.spotify.com/v1/albums/4UhEjfIRx4tE1XRY21vwNa",
+      "id": "4UhEjfIRx4tE1XRY21vwNa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f36e0749d597769ed1592847",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f36e0749d597769ed1592847",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f36e0749d597769ed1592847",
+          "width": 64
+        }
+      ],
+      "name": "I Am...",
+      "release_date": "1999-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:4UhEjfIRx4tE1XRY21vwNa"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0VA4rVvTlRuI4AlKUNBT16" },
+      "href": "https://api.spotify.com/v1/albums/0VA4rVvTlRuI4AlKUNBT16",
+      "id": "0VA4rVvTlRuI4AlKUNBT16",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27354f725ec0d2e7c88712ea8dc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0254f725ec0d2e7c88712ea8dc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485154f725ec0d2e7c88712ea8dc",
+          "width": 64
+        }
+      ],
+      "name": "I Am...",
+      "release_date": "1999-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0VA4rVvTlRuI4AlKUNBT16"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg" },
+      "href": "https://api.spotify.com/v1/albums/78Fgb88MY0ECc4GVMejqTg",
+      "id": "78Fgb88MY0ECc4GVMejqTg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273886d823ecbfcbe661a6b0ab9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851886d823ecbfcbe661a6b0ab9",
+          "width": 64
+        }
+      ],
+      "name": "It Was Written",
+      "release_date": "1996-07-02",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:78Fgb88MY0ECc4GVMejqTg"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1" },
+      "href": "https://api.spotify.com/v1/albums/3kEtdS2pH6hKcMU9Wioob1",
+      "id": "3kEtdS2pH6hKcMU9Wioob1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b1178724f4be59abf7acc6c5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b1178724f4be59abf7acc6c5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b1178724f4be59abf7acc6c5",
+          "width": 64
+        }
+      ],
+      "name": "Illmatic",
+      "release_date": "1994-04-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3kEtdS2pH6hKcMU9Wioob1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/4Ylo6qvhUY2h7VqEJHfYcy" },
+      "href": "https://api.spotify.com/v1/albums/4Ylo6qvhUY2h7VqEJHfYcy",
+      "id": "4Ylo6qvhUY2h7VqEJHfYcy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732eb0f06315ea9ea293d20571",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022eb0f06315ea9ea293d20571",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512eb0f06315ea9ea293d20571",
+          "width": 64
+        }
+      ],
+      "name": "Illmatic",
+      "release_date": "1994-04-19",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4Ylo6qvhUY2h7VqEJHfYcy"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE" },
+      "href": "https://api.spotify.com/v1/albums/6oSHgr3TZJPCFshYUfBDqE",
+      "id": "6oSHgr3TZJPCFshYUfBDqE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375d9ecf8d29744037d2d6064",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275d9ecf8d29744037d2d6064",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175d9ecf8d29744037d2d6064",
+          "width": 64
+        }
+      ],
+      "name": "Illmatic XX",
+      "release_date": "1994",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:6oSHgr3TZJPCFshYUfBDqE"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed" },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0v216tN7nYI6TmDu4s7c3h" },
+      "href": "https://api.spotify.com/v1/albums/0v216tN7nYI6TmDu4s7c3h",
+      "id": "0v216tN7nYI6TmDu4s7c3h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27390c272193eb383546d845539",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0290c272193eb383546d845539",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485190c272193eb383546d845539",
+          "width": 64
+        }
+      ],
+      "name": "Ultra Black",
+      "release_date": "2020-08-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0v216tN7nYI6TmDu4s7c3h"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed" },
+          "href": "https://api.spotify.com/v1/artists/6q3p11nP1p80Ey6LrOOSed",
+          "id": "6q3p11nP1p80Ey6LrOOSed",
+          "name": "Hit-Boy",
+          "type": "artist",
+          "uri": "spotify:artist:6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7bV5H7z8NJbL6ZuctPv1Qt" },
+      "href": "https://api.spotify.com/v1/albums/7bV5H7z8NJbL6ZuctPv1Qt",
+      "id": "7bV5H7z8NJbL6ZuctPv1Qt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1910810de9572a48977f261",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1910810de9572a48977f261",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1910810de9572a48977f261",
+          "width": 64
+        }
+      ],
+      "name": "Ultra Black (feat. Hit-Boy)",
+      "release_date": "2020-08-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7bV5H7z8NJbL6ZuctPv1Qt"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq" },
+          "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+          "id": "7jVv8c5Fj3E9VhNjxT4snq",
+          "name": "Lil Nas X",
+          "type": "artist",
+          "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE" },
+      "href": "https://api.spotify.com/v1/albums/6IaddEQVZdgQjmkrJkU7CE",
+      "id": "6IaddEQVZdgQjmkrJkU7CE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e8d206ee3bff67cfca883634",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e8d206ee3bff67cfca883634",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e8d206ee3bff67cfca883634",
+          "width": 64
+        }
+      ],
+      "name": "Rodeo (feat. Nas)",
+      "release_date": "2020-01-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6IaddEQVZdgQjmkrJkU7CE"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/61Mjbef9Gx4EtmFkQyauMU" },
+      "href": "https://api.spotify.com/v1/albums/61Mjbef9Gx4EtmFkQyauMU",
+      "id": "61Mjbef9Gx4EtmFkQyauMU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273616997024d879cadbf983707",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02616997024d879cadbf983707",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851616997024d879cadbf983707",
+          "width": 64
+        }
+      ],
+      "name": "Jarreau Of Rap (Skatt Attack)",
+      "release_date": "2019-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:61Mjbef9Gx4EtmFkQyauMU"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7CtaE8JBDhCwCPqRAcTgsP" },
+      "href": "https://api.spotify.com/v1/albums/7CtaE8JBDhCwCPqRAcTgsP",
+      "id": "7CtaE8JBDhCwCPqRAcTgsP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f5be8029f06ac7e8cb0a1d15",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f5be8029f06ac7e8cb0a1d15",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f5be8029f06ac7e8cb0a1d15",
+          "width": 64
+        }
+      ],
+      "name": "NY Se Mumbai",
+      "release_date": "2019-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7CtaE8JBDhCwCPqRAcTgsP"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/20dHee8BTs26u4wLjvN3wW" },
+      "href": "https://api.spotify.com/v1/albums/20dHee8BTs26u4wLjvN3wW",
+      "id": "20dHee8BTs26u4wLjvN3wW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27365171fe6cb24766d94a0a355",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0265171fe6cb24766d94a0a355",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485165171fe6cb24766d94a0a355",
+          "width": 64
+        }
+      ],
+      "name": "On the Road Again (Music from The American Epic Sessions)",
+      "release_date": "2017-05-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:20dHee8BTs26u4wLjvN3wW"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP" },
+          "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+          "id": "0ZrpamOxcZybMHGg1AYtHP",
+          "name": "Robin Thicke",
+          "type": "artist",
+          "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/1XQhOIc7u1TRJAhDoVxv4r" },
+      "href": "https://api.spotify.com/v1/albums/1XQhOIc7u1TRJAhDoVxv4r",
+      "id": "1XQhOIc7u1TRJAhDoVxv4r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737756c9e1c14b74fd9ce7cb95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027756c9e1c14b74fd9ce7cb95",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517756c9e1c14b74fd9ce7cb95",
+          "width": 64
+        }
+      ],
+      "name": "Deep",
+      "release_date": "2016-10-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1XQhOIc7u1TRJAhDoVxv4r"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/7JjVkjA5VSZCWAKlwZQWfQ" },
+      "href": "https://api.spotify.com/v1/albums/7JjVkjA5VSZCWAKlwZQWfQ",
+      "id": "7JjVkjA5VSZCWAKlwZQWfQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd9540afbe586faa5756e436",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd9540afbe586faa5756e436",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd9540afbe586faa5756e436",
+          "width": 64
+        }
+      ],
+      "name": "I'm a Villain (Instrumental)",
+      "release_date": "2014-10-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7JjVkjA5VSZCWAKlwZQWfQ"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/74tdowIpF0bHKuAK5Goec2" },
+      "href": "https://api.spotify.com/v1/albums/74tdowIpF0bHKuAK5Goec2",
+      "id": "74tdowIpF0bHKuAK5Goec2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27373013a09c48a5c6029385747",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0273013a09c48a5c6029385747",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485173013a09c48a5c6029385747",
+          "width": 64
+        }
+      ],
+      "name": "Villian",
+      "release_date": "2013-10-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:74tdowIpF0bHKuAK5Goec2"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/4JKLy7EyjlZjuLYBniXF4p" },
+      "href": "https://api.spotify.com/v1/albums/4JKLy7EyjlZjuLYBniXF4p",
+      "id": "4JKLy7EyjlZjuLYBniXF4p",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e79abcc3ad0b732ca15721a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e79abcc3ad0b732ca15721a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517e79abcc3ad0b732ca15721a",
+          "width": 64
+        }
+      ],
+      "name": "Nissan Live Sets On Yahoo! Music",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:4JKLy7EyjlZjuLYBniXF4p"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/30zVZZAGpo8ycuJZDTDvIy" },
+      "href": "https://api.spotify.com/v1/albums/30zVZZAGpo8ycuJZDTDvIy",
+      "id": "30zVZZAGpo8ycuJZDTDvIy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737d4b5d993cc7894aef446cfb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027d4b5d993cc7894aef446cfb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517d4b5d993cc7894aef446cfb",
+          "width": 64
+        }
+      ],
+      "name": "Made You Look (Remix Featuring Jadakiss & Ludacris)",
+      "release_date": "2002-09-10",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:30zVZZAGpo8ycuJZDTDvIy"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk" },
+      "href": "https://api.spotify.com/v1/albums/4fxnbKn90JmmqKReeQbJRk",
+      "id": "4fxnbKn90JmmqKReeQbJRk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736d971b45082f2fd64b4af39d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026d971b45082f2fd64b4af39d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516d971b45082f2fd64b4af39d",
+          "width": 64
+        }
+      ],
+      "name": "Halftime EP",
+      "release_date": "1994-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:4fxnbKn90JmmqKReeQbJRk"
+    },
+    {
+      "album_group": "compilation",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo" },
+      "href": "https://api.spotify.com/v1/albums/2iCCHHtCaJkMJllROVYDGo",
+      "id": "2iCCHHtCaJkMJllROVYDGo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27351a3165f4a98f0715d679998",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0251a3165f4a98f0715d679998",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485151a3165f4a98f0715d679998",
+          "width": 64
+        }
+      ],
+      "name": "The Essential Nas",
+      "release_date": "2013-08-20",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:2iCCHHtCaJkMJllROVYDGo"
+    },
+    {
+      "album_group": "compilation",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": { "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q" },
+          "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist",
+          "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "external_urls": { "spotify": "https://open.spotify.com/album/0BuhmhnaIMHMbsSLUGr0hn" },
+      "href": "https://api.spotify.com/v1/albums/0BuhmhnaIMHMbsSLUGr0hn",
+      "id": "0BuhmhnaIMHMbsSLUGr0hn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ff60a388f665e46e55501690",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ff60a388f665e46e55501690",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ff60a388f665e46e55501690",
+          "width": 64
+        }
+      ],
+      "name": "The Essential Nas",
+      "release_date": "2013-08-20",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:0BuhmhnaIMHMbsSLUGr0hn"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=US",
+  "offset": 0,
+  "previous": "None",
+  "total": 496
+}
