@@ -13,8 +13,8 @@ topicName = 'myTopic'
 
 
 #Connect to the API
-client_id = '97c479517b2b440c981f8109a52668c8'
-client_secret = '7064fe099a3043329873121ebe0d4da0'
+client_id = ' '
+client_secret = ' '
 
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
